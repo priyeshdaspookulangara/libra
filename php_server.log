@@ -23,3 +23,18 @@
 [Wed Oct 21 03:22:50 2026] 127.0.0.1:37224 Accepted
 [Wed Oct 21 03:22:50 2026] 127.0.0.1:37224 [200]: GET /dashboard.php
 [Wed Oct 21 03:22:50 2026] 127.0.0.1:37224 Closing
+[Wed Oct 21 03:29:48 2026] 127.0.0.1:49638 Accepted
+[Wed Oct 21 03:29:48 2026] 127.0.0.1:49638 [200]: POST /api/login.php
+[Wed Oct 21 03:29:48 2026] 127.0.0.1:49638 Closing
+[Wed Oct 21 03:30:02 2026] 127.0.0.1:33700 Accepted
+[Wed Oct 21 03:30:02 2026] 127.0.0.1:33700 [200]: GET /api/books.php?title_query=aadu&title_match_mode=phonetic
+[Wed Oct 21 03:30:02 2026] 127.0.0.1:33700 Closing
+[Wed Oct 21 03:30:16 2026] 127.0.0.1:58736 Accepted
+[Wed Oct 21 03:30:16 2026] 127.0.0.1:58736 [200]: GET /api/member.php?MemberNumber=M001
+[Wed Oct 21 03:30:16 2026] 127.0.0.1:58736 Closing
+[Wed Oct 21 03:30:31 2026] 127.0.0.1:45020 Accepted
+[Wed Oct 21 03:30:31 2026] 127.0.0.1:45020 [200]: POST /api/issue.php
+[Wed Oct 21 03:30:31 2026] 127.0.0.1:45020 Closing
+[Wed Oct 21 03:30:45 2026] 127.0.0.1:51004 Accepted
+[Wed Oct 21 03:30:45 2026] 127.0.0.1:51004 [200]: POST /api/issue.php
+[Wed Oct 21 03:30:45 2026] 127.0.0.1:51004 Closing
