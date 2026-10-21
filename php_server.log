@@ -1,0 +1,25 @@
+[Wed Oct 21 03:21:33 2026] PHP 8.3.6 Development Server (http://127.0.0.1:8000) started
+[Wed Oct 21 03:21:45 2026] 127.0.0.1:58570 Accepted
+[Wed Oct 21 03:21:45 2026] 127.0.0.1:58570 [200]: GET /books.php
+[Wed Oct 21 03:21:45 2026] 127.0.0.1:58570 Closing
+[Wed Oct 21 03:22:42 2026] 127.0.0.1:57252 Accepted
+[Wed Oct 21 03:22:42 2026] 127.0.0.1:57252 [200]: GET /books.php
+[Wed Oct 21 03:22:42 2026] 127.0.0.1:57252 Closing
+[Wed Oct 21 03:22:46 2026] 127.0.0.1:57262 Accepted
+[Wed Oct 21 03:22:46 2026] 127.0.0.1:57262 [200]: GET /books.php?title_query=&title_match_mode=contains&author_query=basir&author_match_mode=phonetic&book_number=&barcode=&call_number=&category=&language=&availability=all
+[Wed Oct 21 03:22:46 2026] 127.0.0.1:57262 Closing
+[Wed Oct 21 03:22:47 2026] 127.0.0.1:57264 Accepted
+[Wed Oct 21 03:22:47 2026] 127.0.0.1:57264 [200]: GET /books.php
+[Wed Oct 21 03:22:47 2026] 127.0.0.1:57264 Closing
+[Wed Oct 21 03:22:48 2026] 127.0.0.1:57268 Accepted
+[Wed Oct 21 03:22:48 2026] 127.0.0.1:57268 [200]: GET /books.php?title_query=&title_match_mode=contains&author_query=&author_match_mode=contains&book_number=&barcode=&call_number=&category=&language=&availability=available
+[Wed Oct 21 03:22:48 2026] 127.0.0.1:57268 Closing
+[Wed Oct 21 03:22:49 2026] 127.0.0.1:37200 Accepted
+[Wed Oct 21 03:22:49 2026] 127.0.0.1:37200 [200]: GET /login.php
+[Wed Oct 21 03:22:49 2026] 127.0.0.1:37200 Closing
+[Wed Oct 21 03:22:50 2026] 127.0.0.1:37216 Accepted
+[Wed Oct 21 03:22:50 2026] 127.0.0.1:37216 [302]: POST /login.php
+[Wed Oct 21 03:22:50 2026] 127.0.0.1:37216 Closing
+[Wed Oct 21 03:22:50 2026] 127.0.0.1:37224 Accepted
+[Wed Oct 21 03:22:50 2026] 127.0.0.1:37224 [200]: GET /dashboard.php
+[Wed Oct 21 03:22:50 2026] 127.0.0.1:37224 Closing
